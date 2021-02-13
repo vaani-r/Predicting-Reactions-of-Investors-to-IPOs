@@ -2,8 +2,6 @@
 
 Welcome to my Respository!
 
-Everything part of this repository is either a research project or a personal project of mine. 
-
 # 1. Predicting Investor Sentiments to IPOs
 
 When a firm is preparing to release an IPO, they must first submit their Prospectus to SEBI. Of the various sections of the Prospectus, we are taking a look at the Risk Factors section, one that details every risk/uncertainty the company is exposed to. According to previously conducted research, the tone or sentiment associated with the section can directly affect the investor's perception of the IPO and impact the book building process which can then directly affect the performance of the IPO on its first day of trading.  
